@@ -39,8 +39,8 @@ I'm a marketing leader with more than five years of experience driving enterpris
  
 | Project | Focus | Link |
 |---|---|---|
-| **Access Point Consulting** — Philadelphia cake-decorating studio | Psychographic segmentation using CEPs & JTBD | [View case study →](One-Page Case Study - Access Point.pdf)|
-| **Vitel Global** — culture & positive psychology | Positive Organizational Scholarship (POS), service culture | [View case study →](One-Page Case Study - Vitel Global.pdf)|
+| **Access Point Consulting** — Philadelphia cake-decorating studio | Psychographic segmentation using CEPs & JTBD | [View case study →] (One-Page Case Study - Access Point.pdf)|
+| **Vitel Global** — culture & positive psychology | Positive Organizational Scholarship (POS), service culture | [View case study →] (One-Page Case Study - Vitel Global.pdf)|
  
 ---
  
