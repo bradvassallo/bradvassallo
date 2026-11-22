@@ -8,7 +8,7 @@
 -->
  
 <div align="center">
-<img src="assets/headshot.jpg" alt="Headshot of Brad Vassallo" width="180" />
+<img src="BBE57DF8-62BD-4228-991F-7BD18255F631.jpeg" alt="Headshot of Brad Vassallo" width="180" />
 
 # Brad Vassallo
  
@@ -21,7 +21,6 @@ Greater Philadelphia, PA
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradvassallo)
 
 </div>
----
  
 ## 👋 About Me
  
@@ -40,10 +39,8 @@ I'm a marketing leader with more than five years of experience driving enterpris
  
 | Project | Focus | Link |
 |---|---|---|
-| **Pretty Scrumptious** — Philadelphia cake-decorating studio | Psychographic segmentation using CEPs & JTBD | [View case study →](https://example.com/pretty-scrumptious) |
-| **The Ritz-Carlton** — culture & positive psychology | Positive Organizational Scholarship (POS), service culture | [View case study →](https://example.com/ritz-carlton) |
-| **[B2B Cybersecurity Campaign]** | Demand generation, positioning for IT buyers | [View case study →](https://example.com/cybersecurity) |
-| **[Philadelphia Land Bank]** | Community engagement & public communications | [View case study →](https://example.com/land-bank) |
+| **Access Point Consulting** — Philadelphia cake-decorating studio | Psychographic segmentation using CEPs & JTBD | [View case study →](https://example.com/pretty-scrumptious) |
+| **Vitel Global** — culture & positive psychology | Positive Organizational Scholarship (POS), service culture | [View case study →](https://example.com/ritz-carlton) |
  
 ---
  
